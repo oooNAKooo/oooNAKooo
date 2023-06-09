@@ -5,7 +5,7 @@ Skills: C / C++ / Java / Python
 
 - 🔭 I’m currently working on labs and projects. 
 - 🌱 I’m currently learning in BSUIR. 
-- 📫 How to reach me: https://t.me/oooNAKooo 
+- 📫 How to reach me: https://t.me/oooNAKooo. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oooNAKooo)](https://github.com/ryo-ma/github-profile-trophy)
 
