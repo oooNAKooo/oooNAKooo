@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vlad, but you can call me "Sam".
 I'm ready to share with you what I once did or found.
 
-Skills: C / C++ / Java / Python
+Skills: C / C++ / Java / Python.
 
 - 🔭 I’m currently working on labs and projects. 
 - 🌱 I’m currently learning in BSUIR. 
