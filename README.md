@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vlad, but you can call me "Sam".
+### Hi there 👋, my name is Vlad.
 I'm ready to share with you what I once did or found.
 
 Skills: C / C++ / Java / Python.
