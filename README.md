@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Vlad.
-I'm ready to share with you what I once did or found.
+
+I am ready to share with you what I once did myself, once helped with chat-GPT or found on the Internet.
 
 Skills: C / C++ / Java / Python.
 
