@@ -8,9 +8,7 @@ Skills: C / C++ / Java / Python / Scala.
 - 🌱 I’m currently learning in BSUIR. 
 - 📫 How to reach me: https://t.me/oooNAKooo.
 
-Don't be sorry to put your stars :)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Don't+be+sorry+to+put+your+stars+:))](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oooNAKooo)](https://github.com/ryo-ma/github-profile-trophy)
 
