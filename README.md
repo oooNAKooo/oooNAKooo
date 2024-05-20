@@ -7,6 +7,7 @@ Skills: C / C++ / Java / Python / Scala.
 - 🔭 I’m currently working on labs and projects. 
 - 🌱 I’m currently learning in BSUIR. 
 - 📫 How to reach me: samuelkrichevsky@gmail.com.
+- ⭐ Self-proclaimed chat-GPT developer.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Don't+be+sorry+to+put+your+stars+😁)](https://git.io/typing-svg)
 
