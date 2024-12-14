@@ -2,7 +2,7 @@
 
 I am ready to share with you what I once did myself, once helped with chat-GPT or found on the Internet.
 
-Skills: C / C++ / Java / Python / Scala.
+Skills: C / C++ / Python / Java  / Scala.
 
 - 🔭 I’m currently working on labs and projects. 
 - 🌱 I’m currently learning in BSUIR. 
